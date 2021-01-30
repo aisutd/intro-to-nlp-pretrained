@@ -1,0 +1,45 @@
+The BlueEvent company is a modern smart event-organizing company, registering and managing thousands of events every day, as per the statistics shown in our mobile event-matching application.
+We are storing millions of monthly users’ data, including but not limited to email addresses, billing addresses, and personal credentials.
+Data breaches have always been a problem for companies and data firms worldwide. Tens to hundreds of thousands of data queries are made by our employees each day, and on average, we found credential leaks in dozens of these queries.
+We are yet to have any countermeasure to former employee leaking out confidential data, which puts us at imminent risk of significant financial losses.
+This proposal requests to implement an automatic anomaly detection system, User and Entity Behavior Analytics system, tracking employee accesses on the internal servers.
+The mentioned system aims to reduce data leaks caused by leaving employees, prevent potential data breaches, lower customer compensation costs, and reduce non-disclosure agreements complications.
+Currently, employees whose roles require access to the internal database have to sign an additional non-disclosure agreement in tandem with the regular employment agreement and contract.
+However, using non-disclosure agreements as the primary countermeasure against data breaches proves to be ineffective and suppressive against the employees.
+The downsides of non-disclosure agreements come in both legal and practical aspects.
+There are legal loopholes that may render non-disclosure agreement useless in the situation of a data breach.
+Designing an agreement that comprehensively covers all conditions and all internal data types can be exhausting for the company’s legal team, while the agreement itself is a defensive measure.
+There are cases in that non-disclosure agreements are not enforceable, making the agreement hard to implement when the opposing company releases the data.
+Moreover, not all internal data of the company are sensitive data.
+There is non-sensitive information within the database, such as public event addresses, making the enforcement of non-disclosure agreements unfavorable because they protect only a limited body of information.
+In addition to legal limitations, the non-disclosure agreement faces practical implementation issues.
+It is mainly a purely defensive measure that accounts for the problem only after the data breach itself already happened.
+To explore the full extent of damage that data breaches do to companies, we have to take a closer look at the many types of costs of data breaches.
+They are a retail chain with a massive database of personal information, which bears many similarities to BlueEvent.
+Note that this is among the worst cases of data breaches, and the consideration of the matter is only to explore the various types of costs involved.
+These are mostly only the direct costs of the breach; however, there are also many indirect costs involved.
+These indirect costs can be attributed to damage to the brand and reputation, which as a result, cause losses of customers, market share, profits, and competitiveness.
+The damage caused by a data breach, especially in customer trust and loyalty, can be incredibly devastating to companies that heavily rely on customers such as BlueEvent.
+A data breach to the company means that fewer people will place their trust in and use the online event-matching platform, which decreases the number of events that the company can offer to the users, feeding to a vicious cycle of customer-base downturns.
+Even for minor data breaches, the cost of lawsuit settlements and investigation can be weighing on BlueEvent’s budget.
+Therefore, advanced measures that can effectively prevent a data breach and enhance data security are much needed.
+The direct solution to BlueEvent’s current data breach problems is to implement an Anomaly Detection system with User and Entity Behavior Analytics that can effectively detect insider leakage.
+User and Entity Behavior Analytics are cybersecurity processes that target insider threats, attacks, and financial fraud. User and Entity Behavior Analytics systems usually seek out abnormal patterns in users’ and entities’ behaviors and recognize which of them is a security event or a compromise.
+The system regularly logs and processes user behaviors within the entire organization and learns from these existing behaviors that are normal and suspicious.
+While User and Entity Behavior Analytics cannot prevent the insiders from accessing critical data components of the system, it quickly warns the management of these risky accesses and prompts further actions to prevent any leaks or compromise.
+The core mechanisms driving a User and Entity Behavior Analytics system are machine learning techniques specialized for anomaly detection.
+To develop a machine learning system for anomaly detection purposes, some of the components are needed, especially processing components.
+The implementation process will mostly be in-house using the company’s existing machine learning infrastructure.
+The implementation process follows a three-step procedure. User and Entity Behavior Analytics offers many benefits to preventing and reducing losses from data breaches.
+First and foremost, User and Entity Behavior Analytics can help you detect data breaches, sabotage, privilege abuse, and policy violations made by your staff.
+That means the system can effectively identify behavior that a human supervisor usually may not notice, reducing the number of false positives and increasing detection accuracy.
+Moreover, User and Entity Behavior Analytics aids organizations with complying with data security standards set forth by various countries.
+Implementing a swift identification and prevention solution such as User and Entity Behavior Analytics will help the company better comply with legal standards while leveraging the company’s position when investigating a leak.
+User and Entity Behavior Analytics is not only an effective way of preventing insider-driven data breaches but also a solution to cut the cybersecurity budget significantly.
+Automated processes can be faulty, and the detection system may occasionally let loose suspicious or abnormal behaviors.
+Moreover, the detection system only serves to identify unusual behaviors, but not to stop the intruders or violators themselves.
+User and Entity Behavior Analytics needs to be coupled with effective cybersecurity measures to stop or recover the data after the leakage and swift management decisions to identify and penalize the violating employee.
+The initial budget for developing and deploying User and Entity Behavior Analytics is rather steep, and constant maintenance is needed to make sure that the system is working correctly.
+In conclusion, BlueEvent’s sole use of non-disclosure agreements to counter insider data leaks and breaches is both defensive and costly, leaving the company at risk of massive financial losses bundled with reducing customers’ trust.
+Deploying a User and Entity Behavior Analytics system with anomaly detection facilitates early response to these data security risks, preventing further data leakage, and stopping the insider attacker before they can cause any real damage.
+This proposal is urgent and significant for the data security and customer satisfaction of the company.
